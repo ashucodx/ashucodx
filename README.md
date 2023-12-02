@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **frontend, backend, Python, SQL**
 
-- 📫 How to reach me **asheeshyadav@gmail.com**
+- 📫 How to reach me **cse.asheesh@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
