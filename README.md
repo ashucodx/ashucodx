@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
-- 💬 Ask me about **frontend, backend, Python, SQL**
+- 💬 Ask me about **Frontend, Backend, Python, SQL**
 
 - 📫 How to reach me **cse.asheesh@gmail.com**
 
