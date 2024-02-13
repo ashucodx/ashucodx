@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [https://asheeshyadav.netlify.app/](Here)
+- 👨‍💻 All of my projects are available at [here](https://asheeshyadav.netlify.app/)
 
 - 💬 Ask me about **Frontend, Backend, Python, SQL**
 
