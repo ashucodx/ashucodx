@@ -3,9 +3,6 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="img1.png">
 
-<img src="https://profile-counter.glitch.me/ashucodx/count.svg" />
-
-
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
@@ -19,7 +16,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-
+<img src="https://profile-counter.glitch.me/ashucodx/count.svg" />
 
 
 <h3 align="left">Languages and Tools:</h3>
