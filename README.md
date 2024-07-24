@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on E-Commerce Website<br>
 🌱 I’m currently learning Express.js<br>
-👨‍💻 All of my projects are available at [here](https://ayadav.netlify.app/)<br>
+👨‍💻 All of my projects are available at [here](#)<br>
 💬 Ask me about Front-end, Back-end, Python, SQL<br>
 📫 How to reach me  @gmail.com<br>
 ⚡ Fun fact I am Funny
