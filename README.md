@@ -3,7 +3,7 @@
 🌱 I’m currently learning Express.js<br>
 👨‍💻 All of my projects are available at [here](#)<br>
 💬 Ask me about Front-end, Back-end, Python, SQL<br>
-📫 How to reach me  @gmail.com<br>
+📫 How to reach me  ay@gmail.com<br>
 ⚡ Fun fact I am Funny
 
 
