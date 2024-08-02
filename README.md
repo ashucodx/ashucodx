@@ -4,7 +4,7 @@
 👨‍💻 All of my projects are available at [here](#)<br>
 💬 Ask me about Front-end, Back-end, Python, SQL<br>
 📫 How to reach me  ay@gmail.com<br>
-⚡ Fun fact I am Funny!
+⚡ Fun fact I am Funny 😆
 
 
 ## 🌐 Socials:
