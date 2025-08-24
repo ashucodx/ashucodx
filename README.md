@@ -9,4 +9,3 @@ When I’m not coding, you’ll probably find me watching sci-fi movies, explori
 
 * I prefer late-night coding sessions 🌙💻
 * Music helps me focus 🎶
-* Always curious to learn something new ✨
